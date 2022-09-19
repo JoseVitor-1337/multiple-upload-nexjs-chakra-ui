@@ -2,6 +2,10 @@
 
 ![Badge projeto concluido](https://img.shields.io/badge/Status-Projeto%20concluido-blue)
 
+Preview da página.
+
+![multiple-upload](https://user-images.githubusercontent.com/59937924/190949454-15bc7be3-6f2d-46c5-ba99-e98dcd87c45c.png)
+
 ## Features
 
 - Nextjs
